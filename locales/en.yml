@@ -1,0 +1,26 @@
+components:
+  navbar:
+    contact: CONTACT
+    login: LOGIN
+    register: REGISTER
+    safe: CLIPHOARD
+    cart: CART
+    products: PRODUCTS
+  footer:
+    example: Example
+  language_switcher:
+    change_language: change language
+  theme_switcher:
+    theme: theme
+    change_theme: change theme
+
+pages:
+  index:
+    title: nuxt 3[]awesome[]starter
+  404:
+    title: page not found
+  blank:
+    nav: blank
+    title: blank page
+    description: this is a blank page
+    just_blank_page_with_title: just blank page with title
